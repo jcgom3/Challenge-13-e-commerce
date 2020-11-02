@@ -10,7 +10,6 @@
 * Node.js
 * Inquirer
 * MySQL2
-* Heroku
 * Sequelize
 * Dotenv
 
@@ -47,8 +46,6 @@ This app allows users to view, add, update and remove employees using MySQL, nod
 # Usage
 In order to use this app, install the node dependencies shown on package.json & database setup. Run the app in the terminal on VS Code use npm start. Click on the video for a demonstration.
 
-## Deploy App on Heroku
-Go to [Heroku](https://bootcamp-e-commerce-hw-13.herokuapp.com/) to use the app.
 
 # Demo
 [![Demo-Video](assets/images/DemoVideo.png)](https://drive.google.com/file/d/1IJdAo146XX2-b1E11fHd6--WnOySkV9g/view)
