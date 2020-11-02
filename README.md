@@ -48,7 +48,7 @@ In order to use this app, install the node dependencies shown on package.json & 
 
 
 # Demo
-[![Demo-Video](assets/images/DemoVideo.png)](https://drive.google.com/file/d/1IJdAo146XX2-b1E11fHd6--WnOySkV9g/view)
+[![Demo-Video](assets/images/DemoVideo.png)](https://drive.google.com/file/d/1vlPFBySIKWJUBR_3qXDbRIUCM6cFRp5I/view)
 
 # License
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
